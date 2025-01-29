@@ -18,6 +18,7 @@ body {
 .gallery {
   margin: 24px auto;
   width: 1128px;
+  padding: 0;
   list-style: none;
   display: flex;
   flex-wrap: wrap;
