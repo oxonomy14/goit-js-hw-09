@@ -67,11 +67,3 @@ function loadFromLS(key) {
     return body;
   }
 }
-
-// textarea.value = localStorage.getItem(localStorageKeyMessage);
-// email.value = localStorage.getItem(localStorageKeyEmail);
-
-// form.addEventListener('input', () => {
-//   localStorage.setItem(localStorageKeyMessage, textarea.value);
-//   localStorage.setItem(localStorageKeyEmail, email.value);
-// });
